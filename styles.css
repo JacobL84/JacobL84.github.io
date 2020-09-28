@@ -12,3 +12,13 @@ h1{
 a{
 	color: cyan;
 }
+
+.assignment{
+	display:flex;
+	padding:12px;
+	margin:12px;
+}
+
+.assignment img{
+	padding:15px;
+}

@@ -16,11 +16,13 @@ a{
 .assignment{
 	display:flex;
 	padding:12px;
+	padding-bottom:12px;
 	margin:12px;
 	margin-bottom:25px;
 	border-radius:5px;
 	background-color:darkblue;
 	box-shadow: 5px 10px DarkCyan;
+	width:800px
 }
 
 .assignment img{
